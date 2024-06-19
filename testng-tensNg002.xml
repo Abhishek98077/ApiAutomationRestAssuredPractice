@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Asus/IdeaProjects/ApiAutomationRestAssured/src/main/java/org/example/tests/crud/POST">
+        <classes>
+            <class name="org.example.tests.crud.testNG.testNg002">
+            </class>
+        </classes>
+    </test>
+</suite>
